@@ -1,5 +1,7 @@
 # Python -- Algorithms and Data Structures
 
+[Algorithm guide: pseudocode, time complexity, and memory](docs/ALGORITHM_GUIDE.md).
+
 Coding problems in Python across LeetCode, HackerRank, CodeSignal, and CoderPad. Every solution has time and space complexity annotations so the tradeoffs are explicit.
 
 ## Structure
